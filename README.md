@@ -10,6 +10,7 @@ My research interests are listed below:
 * Deep Learning
 * Neural Networks
 * Object Detection and Recognition
+* Hand Gesture Recognition
 * Computer Vision
 * Human-Computer Interaction
 * Machine Learning
