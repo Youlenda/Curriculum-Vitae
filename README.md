@@ -1,5 +1,5 @@
 # Curriculum-Vitae
-Last Update: 24 Apr 2021
+Last Update: 1 Jan 2022
 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/yaldaforoutan)
@@ -14,9 +14,7 @@ I am a PhD student at [Simon Fraser University](https://www.sfu.ca) and studying
 My research interests are listed below:
 
 * Deep Learning
-* Neural Networks
 * Object Detection and Recognition
-* Hand Gesture Recognition
 * Computer Vision
 * Human-Computer Interaction
 * Machine Learning
